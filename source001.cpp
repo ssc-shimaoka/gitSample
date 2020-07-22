@@ -66,5 +66,7 @@ int searchString(const char* path, char* inputName, int* count)
 	fclose(fp);
 
 	return res;
+	
+	
 }
 
